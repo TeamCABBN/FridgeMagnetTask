@@ -1,3 +1,3 @@
 # FridgeMagnetTask
 
-[Here!](TeamCABBN.github.io/fridge.html)
+[Here!](https://teamcabbn.github.io/FridgeMagnetTask/fridge.html)
